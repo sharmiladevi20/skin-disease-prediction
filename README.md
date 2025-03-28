@@ -58,3 +58,4 @@ o	The deep learning model predicts the skin condition.
 o	The predicted class and confidence score are shown to the user.
 5.	Recommendations
 o	If needed, the system suggests further medical consultation.
+
